@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="94.86mm"
-   height="59.85999999995022mm"
-   viewBox="0 0 94.86 59.85999999995022"
+   width="94.860001mm"
+   height="59.860001mm"
+   viewBox="0 0 94.860001 59.860001"
    version="1.1"
-   id="svg128"
+   id="svg346"
    sodipodi:docname="PCB Holder.svg"
    inkscape:version="1.2 (dc2aeda, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -12,9 +12,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs132" />
+     id="defs350" />
   <sodipodi:namedview
-     id="namedview130"
+     id="namedview348"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -24,189 +24,110 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="3.237575"
-     inkscape:cx="197.06107"
-     inkscape:cy="113.04757"
-     inkscape:window-width="1309"
-     inkscape:window-height="934"
-     inkscape:window-x="2457"
-     inkscape:window-y="1941"
+     inkscape:zoom="4.1725136"
+     inkscape:cx="127.02176"
+     inkscape:cy="76.093221"
+     inkscape:window-width="2719"
+     inkscape:window-height="1287"
+     inkscape:window-x="283"
+     inkscape:window-y="163"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Sketch" />
+     inkscape:current-layer="svg346" />
   <g
      id="Sketch"
-     transform="translate(13.630000,29.930000) scale(1,-1)">
-    <circle
-       cx="0.0"
-       cy="0.0"
-       r="4.0"
+     transform="matrix(1,0,0,-1,13.63,29.93)"
+     style="stroke:#000000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round">
+    <path
+       id="Sketch_w0000"
+       d="M 3.7080992,1.5 A 4,4 0 0 1 1.5,3.7081 V 7 a 1.5,1.5 0 0 1 -3,0 V 3.7080992 A 4,4 0 0 1 -3.7081,1.5 H -7 a 1.5,1.5 0 0 1 0,-3 h 3.2919008 A 4,4 0 0 1 -1.5,-3.7081 V -7 a 1.5,1.5 0 0 1 3,0 v 3.2919008 A 4,4 0 0 1 3.7081,-1.5 H 7 a 1.5,1.5 0 1 1 0,3 H 3.7080992"
        stroke="#000000"
        stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle84" />
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
     <circle
-       cx="0.0"
-       cy="7.0"
+       cx="0"
+       cy="18.382"
        r="1.5"
        stroke="#000000"
        stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle86" />
+       style="fill:none;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       id="circle323" />
     <circle
-       cx="0.0"
-       cy="18.381999999999998"
-       r="1.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle88" />
-    <circle
-       cx="-7.0"
-       cy="0.0"
-       r="1.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle90" />
-    <circle
-       cx="7.0"
-       cy="0.0"
-       r="1.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle92" />
-    <circle
-       cx="0.0"
-       cy="-7.0"
-       r="1.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle94" />
-    <circle
-       cx="0.0"
+       cx="0"
        cy="-18.5"
        r="1.5"
        stroke="#000000"
        stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle96" />
+       style="fill:none;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       id="circle325" />
     <path
-       id="Sketch_w0007"
-       d="M 41.2 1.000000000000002 L 41.2 -0.9999999999999976 L 45.7 -0.9999999999999976 L 45.7 1.000000000000002 L 41.2 1.000000000000002 "
+       id="Sketch_w0003"
+       d="m 51.2,-1 v 2 h -10 v -2 h 10"
        stroke="#000000"
        stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-linejoin:round;stroke-linecap:round" />
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
     <path
-       id="Sketch_w0008"
-       d="M 47.7 1.000000000000002 L 47.7 -0.9999999999999976 L 52.2 -0.9999999999999976 L 52.2 1.000000000000002 L 47.7 1.000000000000002 "
+       id="Sketch_w0004"
+       d="m 19.2,29 h 8.25 v -2.54 a 1.25,1.25 0 0 1 2.5,0 V 29 h 43.37 v -1.905 a 1.1,1.1 0 1 1 2.2,0 V 29 h 3.28 a 1.5,1.5 0 0 0 1.5,-1.5 v -55 A 1.5,1.5 0 0 0 78.8,-29 h -1.7 v 2.83 a 1.1,1.1 0 1 1 -2.2,0 V -29 H 23.95 v 2.5 a 1.25,1.25 0 1 1 -2.5,0 V -29 H -11.2 a 1.5,1.5 0 0 0 -1.5,1.5 v 55 a 1.5,1.5 0 0 0 1.5,1.5 h 27.4 v -3.175 a 1.5,1.5 0 0 1 3,0 V 29"
        stroke="#000000"
        stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-linejoin:round;stroke-linecap:round" />
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke:#0000ff;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
     <circle
-       cx="28.7"
-       cy="26.46"
+       cx="28.700001"
+       cy="8.6800003"
        r="1.25"
        stroke="#000000"
        stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle100" />
+       style="fill:none;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       id="circle329" />
     <circle
-       cx="28.7"
-       cy="8.68"
-       r="1.25"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle102" />
-    <circle
-       cx="74.42"
-       cy="27.095"
+       cx="74.419998"
+       cy="8.0450001"
        r="1.1"
        stroke="#000000"
        stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle104" />
+       style="fill:none;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       id="circle331" />
     <circle
-       cx="74.42"
-       cy="8.045"
-       r="1.1"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle106" />
-    <circle
-       cx="22.7"
-       cy="-6.499999999999999"
+       cx="22.700001"
+       cy="-6.5"
        r="1.25"
        stroke="#000000"
        stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle108" />
-    <circle
-       cx="22.7"
-       cy="-26.5"
-       r="1.25"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle110" />
+       style="fill:none;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       id="circle333" />
     <circle
        cx="56.5"
-       cy="2.3299999999999987"
+       cy="2.3299999"
        r="1.1"
        stroke="#000000"
        stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle112" />
+       style="fill:none;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       id="circle335" />
     <circle
-       cx="76.0"
-       cy="-26.17"
-       r="1.1"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle114" />
-    <circle
-       cx="17.7"
-       cy="-4.174999999999997"
+       cx="17.700001"
+       cy="-4.1750002"
        r="1.5"
        stroke="#000000"
        stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle116" />
+       style="fill:none;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       id="circle337" />
     <circle
-       cx="17.7"
-       cy="-9.635999999999996"
+       cx="17.700001"
+       cy="-9.6359997"
        r="1.5"
        stroke="#000000"
        stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle118" />
+       style="fill:none;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       id="circle339" />
     <circle
-       cx="17.7"
-       cy="25.825"
-       r="1.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle120" />
-    <circle
-       cx="17.7"
+       cx="17.700001"
        cy="20.364"
        r="1.5"
        stroke="#000000"
        stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle122" />
-    <path
-       id="Sketch_w0021"
-       d="M -12.7 -27.5 L -12.7 27.5 A 1.5 1.5 0 0 0 -11.2 29L 78.80000000001574 28.999999999950216 A 1.5 1.5 0 0 0 80.3 27.5L 80.3 -27.499999999900183 A 1.5 1.5 0 0 0 78.8 -29L -11.200000000000001 -28.999999999950216 A 1.5 1.5 0 0 0 -12.7 -27.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-opacity:1" />
+       style="fill:none;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       id="circle341" />
     <title
-       id="title125">b'Sketch'</title>
+       id="title343">b'Sketch'</title>
   </g>
 </svg>
